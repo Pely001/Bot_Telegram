@@ -1,6 +1,7 @@
 # PiCode 
 
-	[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/pedro-henrique-matias/)/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/pelyhenrique/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/pedro-henrique-matias/)/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/pelyhenrique/)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
 ## PiCode é um bot gerador de código de barras, desenvolvido para uso no ambiente de trabalho.
