@@ -16,4 +16,4 @@ Também é possível gerar o código da senha e demais códigos de barras para u
 
 É apenas um projeto para auxilar no ambiente de trabalho e buscar desenvolver algumas habilidades novas
 
-Obs.: Para funcionamento do bot, é necessário a instalação das bibliotecas necessárias: PyTelegramAPI, Telebot, Python-Barcode e Pandas
+Obs.: Para o funcionamento do bot, é necessário a instalação das bibliotecas necessárias: PyTelegramAPI, Telebot, Python-Barcode e Pandas
