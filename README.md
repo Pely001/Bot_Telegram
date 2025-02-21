@@ -15,3 +15,5 @@ No bot é possível gerar um cod. de barras somente digitando o número de acess
 Também é possível gerar o código da senha e demais códigos de barras para utilização. 
 
 É apenas um projeto para auxilar no ambiente de trabalho e buscar desenvolver algumas habilidades novas
+
+Obs.: Para funcionamento do bot, é necessário a instalação das bibliotecas necessárias: PyTelegramAPI, Telebot, Python-Barcode e Pandas
